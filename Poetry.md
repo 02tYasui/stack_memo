@@ -1,5 +1,12 @@
 # Poetry
 
+## 事前作業
+.tool-versionsの作成
+```
+python 3.11.6
+poetry 1.7.0
+```
+
 ## 新規プロジェクト立ち上げ
 
 ```shell
